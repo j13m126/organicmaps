@@ -300,7 +300,7 @@ man_made|lighthouse;299;
 highway|path|demanding_mountain_hiking;[highway=path][sac_scale=demanding_mountain_hiking];;name;int_name;300;
 man_made|storage_tank;301;
 man_made|silo;302;
-power|generator;303;
+power|generator;[power=generator][generator:method=wind];;name;int_name;303;
 highway|pedestrian|bridge;[highway=pedestrian][bridge?];;name;int_name;304;
 man_made|pipeline|overground;[man_made=pipeline][location=overground];x;name;int_name;305;man_made|pipeline
 natural|saddle;306;
