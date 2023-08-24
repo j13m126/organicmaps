@@ -271,6 +271,7 @@
     af = Lughawe
     ar = مطار
     az = Hava limanı
+    bn = বিমানবন্দর
     cs = Letiště
     da = Lufthavn
     de = Flugplatz
@@ -394,6 +395,7 @@
     af = Heliblad
     ar = مهبط مروحيات
     az = Helipad
+    bn = হেলিপ্যাড
     da = Helikopterlandingsplads
     de = Hubschrauberlandeplatz
     el = Ελικοδρόμιο
@@ -500,6 +502,7 @@
 
   [type.amenity]
     en = Amenity
+    bn = আমেনিটি
     af = Geriewe
     ar = مرفق
     az = Təsis
@@ -540,6 +543,7 @@
 
   [type.amenity.arts_centre]
     en = Arts Center
+    bn = শিল্প কেন্দ্র
     en-GB = Arts Centre
     af = Kunssentrum
     ar = مركز فن
@@ -580,6 +584,7 @@
 
   [type.amenity.atm]
     en = ATM
+    bn = এটিএম
     af = OTM
     ar = ماكينة صراف آلي
     az = Nağd pul verən
@@ -612,6 +617,7 @@
 
   [type.amenity.bank]
     en = Bank
+    bn = ব্যাংক
     af = Bank
     ar = بنك
     az = Bank
@@ -644,6 +650,7 @@
 
   [type.amenity.bar]
     en = Bar
+    bn = পানশালা
     af = Taverne
     ar = حانة
     az = Bar
@@ -711,6 +718,7 @@
 
   [type.amenity.bench]
     en = Bench
+    bn = বেঞ্চ
     af = Sitbank
     ar = مصطبة
     az = Skamya
@@ -749,6 +757,7 @@
 
   [type.amenity.bicycle_parking]
     en = Bicycle Parking
+    bn = সাইকেল পার্ক করার জায়গা
     af = Fietsparkering
     ar = موقف دراجات
     az = Velosiped dayanacağı
@@ -789,6 +798,7 @@
 
   [type.amenity.bicycle_rental]
     en = Bicycle Rental
+    bn = সাইকেল ভাড়া নেয়া
     af = Fietsverhuring
     ar = تأجير دراجات
     az = Velosiped İcarəsi
@@ -1004,6 +1014,7 @@
 
   [type.amenity.cafe]
     en = Cafe
+    bn = ক্যাফে
     af = Kafee
     ar = مقهى
     az = Kafe
@@ -1042,6 +1053,7 @@
 
   [type.amenity.car_rental]
     en = Car Rental
+    bn = গাড়ি ভাড়া
     af = Motorverhuring
     ar = تأجير سيارات
     az = Avtomobil icarəsi
@@ -1474,6 +1486,7 @@
 
   [type.amenity.cinema]
     en = Cinema
+    bn = সিনেমা
     af = Bioskoop
     ar = سينما
     az = Kino
@@ -1863,6 +1876,7 @@
 
   [type.amenity.drinking_water]
     en = Drinking Water
+    bn = পানীয় জল
     af = Drinkwater
     ar = مياه شرب
     az = İçməli su
@@ -2147,6 +2161,7 @@
 
   [type.amenity.fast_food]
     en = Fast Food
+    bn = ফাস্টফুড
     af = Kitskos
     ar = وجبات سريعة
     az = Rahat yemək
@@ -2223,6 +2238,7 @@
 
   [type.amenity.fire_station]
     en = Fire Station
+    bn = দমকল
     af = Brandweerstasie
     ar = محطة إطفاء
     az = Yanğın İdarəsi
@@ -2283,6 +2299,7 @@
 
   [type.amenity.fountain]
     en = Fountain
+    bn = ঝর্না
     af = Fontein
     ar = نافورة
     az = Fəvvarə
@@ -2321,6 +2338,7 @@
 
   [type.amenity.fuel]
     en = Gas Station
+    bn = গ্যাস স্টেশন
     en-GB = Petrol Station
     af = Vulstasie
     ar = محطة وقود
@@ -2362,6 +2380,7 @@
   [type.amenity.grave_yard]
     comment = In most (European) countries, сemeteries are usually independent of places of worship (e.g. military cemeteries), while grave yards are usually the yard of a place of worship.
     en = Graveyard
+    bn = কবরখানা
     af = Begraafplaas
     ar = مقبرة
     az = Məzarlıq
@@ -2614,6 +2633,7 @@
 
   [type.amenity.library]
     en = Library
+    bn = পাঠাগার
     af = Biblioteek
     ar = مكتبة
     az = Kitabxana
@@ -2695,6 +2715,7 @@
 
   [type.amenity.marketplace]
     en = Marketplace
+    bn = বাজার
     af = Mark
     ar = سوق
     az = Bazar
@@ -3536,6 +3557,7 @@
 
   [type.amenity.place_of_worship]
     en = Place of Worship
+    bn = প্রার্থনাস্থল
     af = Plek van aanbidding
     ar = مكان عبادة
     az = İbadət yerləri
@@ -3574,6 +3596,7 @@
 
   [type.amenity.place_of_worship.buddhist]
     en = Buddhist Temple
+    bn = বৌদ্ধ মন্দির
     af = Boeddhistetempel
     ar = معبد بوذي
     az = Məbəd
@@ -3918,6 +3941,7 @@
 
   [type.amenity.police]
     en = Police
+    bn = পুলিশ
     af = Polisie
     ar = شرطة
     az = Polis
@@ -3995,6 +4019,7 @@
 
   [type.amenity.post_office]
     en = Post Office
+    bn = ডাকঘর
     af = Poskantoor
     ar = مكتب بريد
     az = Poçt şöbəsi
@@ -4060,6 +4085,7 @@
 
   [type.amenity.pub]
     en = Pub
+    bn = সরাইখানা
     af = Kroeg
     ar = حانة
     az = Pub
@@ -4632,6 +4658,7 @@
 
   [type.amenity.restaurant]
     en = Restaurant
+    bn = রেস্তোরাঁ
     af = Restourant
     ar = مطعم
     az = Restoran
@@ -4919,6 +4946,7 @@
 
   [type.amenity.telephone]
     en = Phone
+    bn = টেলিফোন
     af = Telefoon
     ar = هاتف
     az = Telefon
@@ -4957,6 +4985,7 @@
 
   [type.amenity.theatre]
     en = Theatre
+    bn = থিয়েটার
     af = Teater
     ar = مسرح
     az = Teatr
@@ -5034,6 +5063,7 @@
 
   [type.amenity.townhall]
     en = Town Hall
+    bn = টাউন হল
     af = Stadsaal
     ar = مبنى البلدية
     az = Şəhər zalı
@@ -6025,6 +6055,7 @@
 
   [type.barrier.fence]
     en = Fence
+    bn = বেড়া
     af = Heining
     ar = سياج
     az = Hasar
@@ -6050,6 +6081,7 @@
 
   [type.barrier.gate]
     en = Gate
+    bn = ফটক
     af = Hek
     ar = بوابة
     az = Keçid
@@ -6336,6 +6368,7 @@
 
   [type.barrier.wall]
     en = Wall
+    bn = দেয়াল
     af = Muur
     ar = جدار
     az = Divar
@@ -6603,6 +6636,7 @@
     af = Gebou
     ar = مبنى
     az = Bina
+    bn = দালান
     cs = Stavba
     da = Bygning
     de = Gebäude
@@ -6692,6 +6726,7 @@
     af = Motorhawe
     ar = مرآب
     az = Qaraj
+    bn = গ্যারেজ
     cs = Garáž
     el = Γκαράζ
     es = Garaje
@@ -11951,6 +11986,7 @@
 
   [type.highway.cycleway]
     en = Cycle Path
+    bn = সাইকেলের রাস্তা
     af = Fietspad
     ar = مسار للدراجات
     az = Velosiped yolu
@@ -12023,6 +12059,7 @@
 
   [type.highway.footway]
     en = Foot Path
+    bn = ফুটপাত
     af = Voetpad
     ar = مسار للمشاة
     az = Səki
@@ -12351,6 +12388,7 @@
 
   [type.highway.motorway]
     en = Motorway
+    bn = মোটরওয়ে
     af = Snelweg
     ar = طريق سريع
     az = Avtomobil yolu
@@ -12483,6 +12521,7 @@
 
   [type.highway.path]
     en = Path
+    bn = পথ
     af = Pad
     ar = مسار
     az = Yol
@@ -12705,6 +12744,7 @@
 
   [type.highway.primary]
     en = Primary Road
+    bn = প্রাথমিক রাস্তা
     af = Primêre pad
     ar = شارع رئيسي
     az = Əsas yol
@@ -12811,6 +12851,7 @@
 
   [type.highway.residential]
     en = Residential Street
+    bn = আবাসিক রাস্তা
     af = Residensiële straat
     ar = شارع سكني
     az = Küçə
@@ -13026,6 +13067,7 @@
 
   [type.highway.secondary]
     en = Secondary Road
+    bn = দ্বিতীয় স্তরের রাস্তা
     af = Sekondêre pad
     ar = شارع ثانوي
     az = Yan yol
@@ -13098,6 +13140,7 @@
 
   [type.highway.service]
     en = Service Road
+    bn = সার্ভিস রোড
     af = Dienspad
     ar = شارع خدمي
     az = Xidmət Yolu
@@ -13251,6 +13294,7 @@
 
   [type.highway.steps]
     en = Stairs
+    bn = সিঁড়ি
     af = Trap
     ar = درج
     az = Pilləkənlər
@@ -13294,6 +13338,7 @@
 
   [type.highway.tertiary]
     en = Tertiary Road
+    bn = প্রশাখা রাস্তা
     af = Tersiêre pad
     ar = شارع
     az = Üçüncü yol
@@ -13473,6 +13518,7 @@
 
   [type.highway.trunk]
     en = Trunk Road
+    bn = ট্রাঙ্ক রোড
     af = Hoofpad
     ar = شارع وطني
     az = Dövlət şossesi
@@ -13955,6 +14001,7 @@
     az = Möhkəmləndirilmiş qala
     be = Замак
     bg = Замък
+    bn = প্রাসাদ
     cs = Hrad
     da = Slot
     de = Burg
@@ -14604,6 +14651,7 @@
     az = Abidə
     be = Мемарыял
     bg = Мемориал
+    bn = স্মরণচিহ্ন
     cs = Pomník
     da = Mindesmærke
     de = Denkmal
@@ -14973,6 +15021,7 @@
     az = Abidə
     be = Помнік
     bg = Паметник
+    bn = স্মৃতিস্তম্ভ
     cs = Zajímavost
     da = Monument
     de = Monument
@@ -15053,6 +15102,7 @@
     az = Xarabalar
     be = Руіны
     bg = Развалина
+    bn = ধ্বংসাবশেষ
     cs = Ruiny
     da = Ruiner
     de = Ruine
@@ -15752,6 +15802,7 @@
 
   [type.landuse.farmyard]
     en = Farmyard
+    bn = খামার
     af = Plaaswerf
     az = Ferma rayonu
     de = Bauernhof
@@ -16008,6 +16059,7 @@
 
   [type.landuse.grass]
     en = Grass
+    bn = ঘাস
     af = Grasperk
     ar = عشب
     az = Ot
@@ -16150,6 +16202,7 @@
 
   [type.landuse.meadow]
     en = Meadow
+    bn = তৃণক্ষেত্র
     af = Weiland
     ar = مرج
     az = Çəmən
@@ -16196,6 +16249,7 @@
 
   [type.landuse.orchard]
     en = Orchard
+    bn = ফলের বাগান
     af = Boord
     ar = بستان
     az = Meyvə bağı
@@ -16219,6 +16273,7 @@
 
   [type.landuse.quarry]
     en = Quarry
+    bn = খনি
     af = Steengroef
     ar = مقلع
     az = Daş çuxuru
@@ -16426,6 +16481,7 @@
 
   [type.landuse.vineyard]
     en = Vineyard
+    bn = আঙুরখেত
     af = Wingerd
     ar = حقل عنب
     az = Üzüm bağı
@@ -16642,6 +16698,7 @@
 
   [type.leisure.garden]
     en = Garden
+    bn = বাগান
     af = Tuin
     ar = حديقة
     az = Bağ
@@ -16696,6 +16753,7 @@
 
   [type.leisure.golf_course]
     en = Golf Course
+    bn = গল্ফ মাঠ
     af = Gholfbaan
     ar = ملعب غولف
     az = Qolf Kursu
@@ -16874,6 +16932,7 @@
 
   [type.leisure.park]
     en = Park
+    bn = উদ্যান
     af = Park
     ar = متنزه
     az = Park
@@ -17004,6 +17063,7 @@
 
   [type.leisure.playground]
     en = Playground
+    bn = খেলার মাঠ
     af = Speeltuin
     ar = ملعب أطفال
     az = Oyun meydançası
@@ -17232,6 +17292,7 @@
 
   [type.leisure.stadium]
     en = Stadium
+    bn = স্টেডিয়াম
     af = Stadion
     ar = ملعب
     az = Stadion
@@ -17269,6 +17330,7 @@
 
   [type.leisure.swimming_pool]
     en = Swimming Pool
+    bn = সুইমিং পুল
     af = Swembad
     ar = مسبح
     az = Üzgüçülük hovuzu
@@ -17547,6 +17609,7 @@
 
   [type.man_made.lighthouse]
     en = Lighthouse
+    bn = বাতিঘর
     af = Vuurtoring
     ar = منارة
     az = Mayak
@@ -17602,6 +17665,7 @@
 
   [type.man_made.pier]
     en = Pier
+    bn = জাহাজঘাটা
     af = Pier
     ar = رصيف بحري
     az = Dok
@@ -17624,6 +17688,7 @@
 
   [type.man_made.pipeline]
     en = Pipeline
+    bn = নল
     af = Pypleiding
     ar = خط أنبوب
     az = Boru
@@ -17736,6 +17801,7 @@
 
   [type.man_made.tower]
     en = Tower
+    bn = মিনার
     af = Toring
     ar = برج
     az = Qüllə
@@ -17876,6 +17942,7 @@
 
   [type.man_made.water_tower]
     en = Water Tower
+    bn = জল স্তম্ভ
     af = Watertoring
     ar = برج مياه
     az = Su qalası
@@ -18250,6 +18317,7 @@
 
   [type.natural.bay]
     en = Bay
+    bn = উপসাগর
     af = Baai
     ar = خليج
     az = Bay
@@ -18291,6 +18359,7 @@
 
   [type.natural.beach]
     en = Beach
+    bn = সৈকত
     af = Strand
     ar = شاطئ
     az = Çimərlik
@@ -18616,6 +18685,7 @@
 
   [type.natural.coastline]
     en = Coastline
+    bn = তটরেখা
     af = Kuslyn
     ar = ساحل
     az = Sahil xətti
@@ -18731,6 +18801,7 @@
 
   [type.natural.glacier]
     en = Glacier
+    bn = হিমবাহ
     af = Gletser
     ar = كتلة جليدية
     az = Buzlaq
@@ -18774,6 +18845,7 @@
 
   [type.natural.grassland]
     en = Grassland
+    bn = তৃণভুমি
     af = Grasland
     ar = أرض عشبية
     az = Campo
@@ -18815,6 +18887,7 @@
 
   [type.natural.heath]
     en = Heath
+    bn = স্বাস্থ্য
     af = Heide
     ar = براح
     az = Buş
@@ -18897,6 +18970,7 @@
 
   [type.natural.water.lake]
     en = Lake
+    bn = হ্রদ
     af = Meer
     ar = بحيرة
     az = Məqsəd
@@ -18938,6 +19012,7 @@
 
   [type.natural.water.lock]
     en = Lock Chamber
+    bn = জল
     af = Slotkamer
     ar = قفل مياه
     az = Kilid otağı
@@ -18978,6 +19053,7 @@
 
   [type.natural.water.pond]
     en = Pond
+    bn = পুকুর
     af = Poel
     ar = بركة
     az = Gölməçə
@@ -19019,6 +19095,7 @@
 
   [type.natural.water.reservoir]
     en = Reservoir
+    bn = জলাধার
     af = Reservoir
     ar = بحيرة لخزن المياه
     az = Su anbarı
@@ -19263,6 +19340,7 @@
 
   [type.natural.peak]
     en = Peak
+    bn = চূড়া
     af = Piek
     ar = قمة
     az = Pik
@@ -19426,6 +19504,7 @@
 
   [type.natural.spring]
     en = Natural Spring
+    bn = বসন্ত
     af = Bron
     ar = ينبوع
     az = Bahar
@@ -19631,6 +19710,7 @@
 
   [type.natural.water]
     en = Water
+    bn = জল
     af = Water
     ar = ماء
     az = Su təchizatı
@@ -19672,6 +19752,7 @@
 
   [type.natural.wetland]
     en = Wetland
+    bn = জলাজমি
     af = Moerasland
     ar = منطقة رطبة
     az = Bataqlıq
@@ -20043,6 +20124,7 @@
 
   [type.office.ngo]
     en = Non-Governmental Organization
+    bn = এনজিও অফিস
     af = Nie-regeringsorganisasie
     ar = مكتب مؤسسة غير حكومية
     az = QHT binası
@@ -20081,6 +20163,7 @@
 
   [type.office.telecommunication]
     en = Telecom Company
+    bn = টেলিকম অফিস
     af = Mobielediensverskaffer
     ar = شركة اتصالات
     az = Mobil telefon operatoru
@@ -20141,6 +20224,7 @@
 
   [type.place.city]
     en = City
+    bn = শহর
     af = Stad
     ar = مدينة
     az = Şəhər
@@ -20459,6 +20543,7 @@
 
   [type.place.island]
     en = Island
+    bn = দ্বীপ
     af = Eiland
     ar = جزيرة
     az = Ada
@@ -20581,6 +20666,7 @@
 
   [type.place.locality]
     en = Locality
+    bn = অঞ্চল
     af = Standplaas
     ar = منطقة مجاورة
     az = Rayon
@@ -20948,6 +21034,7 @@
 
   [type.place.town]
     en = Town
+    bn = উপনগর
     af = Dorp
     ar = بلدة
     az = Şəhər
@@ -20988,6 +21075,7 @@
 
   [type.place.village]
     en = Village
+    bn = গ্রাম
     af = Dorpie
     ar = قرية
     az = Bay
@@ -21750,6 +21838,7 @@
 
   [type.railway.disused]
     en = Disused Railway
+    bn = অব্যবহৃত রেলপথ
     af = Ongebruikte spoor
     az = Istifadəsiz dəmir yolu
     de = Stillgelegte Bahnstrecke
@@ -23617,6 +23706,7 @@
 
   [type.shop]
     en = Shop
+    bn = দোকান
     af = Winkel
     ar = متجر
     az = Ticarət mərkəzi
@@ -23692,6 +23782,7 @@
 
   [type.shop.bakery]
     en = Bakery
+    bn = বেকারি
     af = Bakkery
     ar = مخبز
     az = Soba
@@ -23849,6 +23940,7 @@
 
   [type.shop.bicycle]
     en = Bicycle Shop
+    bn = সাইকেলের দোকান
     af = Fietswinkel
     ar = متجر دراجات هوائية
     az = Velosipedçi
@@ -23959,6 +24051,7 @@
 
   [type.shop.butcher]
     en = Butcher
+    bn = কসাই
     af = Slagter
     ar = قصابة
     az = Qəssab
@@ -24039,6 +24132,7 @@
 
   [type.shop.car]
     en = Car Dealership
+    bn = গাড়ির ডিলারশিপ
     af = Motorhandelaar
     ar = وكالة بيع السيارات
     az = Avtomobil Dükanı
@@ -24077,6 +24171,7 @@
 
   [type.shop.car_parts]
     en = Car Parts Shop
+    bn = গাড়ির যন্ত্রাংশের দোকান
     af = Motoronderdelewinkel
     ar = محل أجزاء سيارات
     az = Avtomobil hissələri
@@ -24115,6 +24210,7 @@
 
   [type.shop.car_repair]
     en = Car Repair Workshop
+    bn = গাড়ি মেরামতের দোকান
     en-GB = Car Repair Garage
     af = Motorhawe
     ar = محل صيانة السيارات
@@ -24333,6 +24429,7 @@
 
   [type.shop.clothes]
     en = Clothes Shop
+    bn = জামাকাপড়ের দোকান
     af = Kledingwinkel
     ar = متجر ملابس
     az = Geyim mağazası
@@ -24410,6 +24507,7 @@
 
   [type.shop.computer]
     en = Computer Store
+    bn = কম্পিউটারের দোকান
     en-GB = Computer Shop
     af = Rekenaarwinkel
     ar = متجر كمبيوتر
@@ -24686,6 +24784,7 @@
 
   [type.shop.department_store]
     en = Department Store
+    bn = ডিপার্টমেন্ট স্টোর
     af = Afdelingswinkel
     ar = متجر شامل
     az = Univermaq
@@ -24724,6 +24823,7 @@
 
   [type.shop.doityourself]
     en = Home Improvement Store
+    bn = নিজে করুন স্টোর
     en-GB = DIY Shop
     af = Hardewarewinkel
     ar = متجر عدد وأدوات
@@ -24803,6 +24903,7 @@
 
   [type.shop.electronics]
     en = Electronics Shop
+    bn = ইলেকট্রনিক্স-এর দোকান
     af = Elektroniese winkel
     ar = متجر إلكترونيات
     az = Elektronika Mağazası
@@ -24999,6 +25100,7 @@
 
   [type.shop.florist]
     en = Florist
+    bn = ফুল ব্যবসায়ী
     af = Bloemis
     ar = متجر زهور
     az = Gülçü
@@ -25076,6 +25178,7 @@
 
   [type.shop.furniture]
     en = Furniture Store
+    bn = আসবাবপত্রের দোকান
     en-GB = Furniture Shop
     af = Meubelwinkel
     ar = متجر أثاث
@@ -25196,6 +25299,7 @@
 
   [type.shop.gift]
     en = Gift Shop
+    bn = উপহারের দোকান
     af = Geskenkwinkel
     ar = متجر هدايا
     az = Hədiyyə Dükanı
@@ -25708,6 +25812,7 @@
 
   [type.shop.mall]
     en = Mall
+    bn = মল
     en-GB = Shopping Centre
     af = Winkelsentrum
     ar = مركز تسوق
@@ -25784,6 +25889,7 @@
 
   [type.shop.mobile_phone]
     en = Cell Phone Store
+    bn = মোবাইল ফোন-এর দোকান
     en-GB = Mobile Phone Shop
     af = Selfoonwinkel
     ar = متجر هواتف محمولة
@@ -25942,6 +26048,7 @@
 
   [type.shop.music]
     en = Record Store
+    bn = সঙ্গীতের দোকান
     en-GB = Record Shop
     af = Musiekwinkel
     ar = متجر اقراص موسيقية
@@ -26059,6 +26166,7 @@
 
   [type.shop.optician]
     en = Optician
+    bn = চক্ষুরোগের চিকিত্সক
     af = Optisiën
     ar = مركز بصريات
     az = Optik
@@ -26537,6 +26645,7 @@
 
   [type.shop.shoes]
     en = Shoe Shop
+    bn = জুতোর দোকান
     af = Skoenwinkel
     ar = متجر أحذية
     az = Ayaqqabı mağazası
@@ -26575,6 +26684,7 @@
 
   [type.shop.sports]
     en = Sports Shop
+    bn = খেলার সামগ্রির দোকান
     af = Sportwinkel
     ar = متجر أدوات رياضية
     az = İdman məhsulları
@@ -26651,6 +26761,7 @@
 
   [type.shop.supermarket]
     en = Supermarket
+    bn = সুপারমার্কেট
     af = Supermark
     ar = سوبر ماركت
     az = Supermarket
@@ -26800,6 +26911,7 @@
 
   [type.shop.toys]
     en = Toy Store
+    bn = খেলনার দোকান
     en-GB = Toy Shop
     af = Speelgoedwinkel
     ar = متجر لعبات
@@ -28193,6 +28305,7 @@
 
   [type.sport.american_football]
     en = American Football
+    bn = মার্কিন ফুটবল মাঠ
     af = Amerikaanse voetbal
     ar = كرة القدم الأمريكية
     az = Futbol
@@ -28398,6 +28511,7 @@
 
   [type.sport.basketball]
     en = Basketball
+    bn = বাস্কেটবল কোর্ট
     af = Basketbal
     ar = كرة السلة
     az = Basketbol
@@ -28994,6 +29108,7 @@
 
   [type.sport.soccer]
     en = Soccer
+    bn = ফুটবল মাঠ
     en-GB = Football
     af = Sokker
     ar = كرة القدم
@@ -29119,6 +29234,7 @@
 
   [type.sport.tennis]
     en = Tennis Court
+    bn = টেনিস কোর্ট
     af = Tennisbaan
     ar = ملعب تنس
     az = Tennis kortu
@@ -29162,6 +29278,7 @@
 
   [type.sport.volleyball]
     en = Volleyball
+    bn = ভলিবল মাঠ
     af = Vlugbal
     ar = كرة الطائرة
     az = Voleybol
@@ -29818,6 +29935,7 @@
 
   [type.tourism.attraction]
     en = Attraction
+    bn = পর্যটক আকর্ষণ
     af = Attraksie
     ar = مكان جذاب
     az = Attraksionlar
@@ -30057,6 +30175,7 @@
 
   [type.tourism.guest_house]
     en = Guest House
+    bn = অতিথিশালা
     af = Gastehuis
     ar = دار الضيافة
     az = Qonaq evi
@@ -30095,6 +30214,7 @@
 
   [type.tourism.hostel]
     en = Hostel
+    bn = ছাত্রাবাস
     af = Herberg
     ar = نزُل مشتركة
     az = Yataqxana
@@ -30127,6 +30247,7 @@
 
   [type.tourism.hotel]
     en = Hotel
+    bn = হোটেল
     af = Hotel
     ar = فندق
     az = Otel
@@ -30159,6 +30280,7 @@
 
   [type.tourism.information]
     en = Tourist Information
+    bn = তথ্য
     af = Toeriste-inligting
     ar = معلومات سياحية
     az = Turist məlumatı
@@ -30404,6 +30526,7 @@
 
   [type.tourism.motel]
     en = Motel
+    bn = মোটেল
     af = Motel
     ar = موتيل
     az = Motel
@@ -30432,6 +30555,7 @@
 
   [type.tourism.museum]
     en = Museum
+    bn = প্রদর্শনশালা
     af = Museum
     ar = متحف
     az = Muzey
@@ -30466,6 +30590,7 @@
 
   [type.tourism.picnic_site]
     en = Picnic Site
+    bn = পিকনিক-এর জায়গা
     af = Piekniekterrein
     ar = موقع نزهة
     az = Piknik sahəsi
@@ -30539,6 +30664,7 @@
 
   [type.tourism.theme_park]
     en = Theme Park
+    bn = থিম পার্ক
     af = Temapark
     ar = مدينة العاب
     az = Mövzu park
@@ -30654,6 +30780,7 @@
 
   [type.tourism.zoo]
     en = Zoo
+    bn = চিড়িয়াখানা
     af = Dieretuin
     ar = حديقة حيوان
     az = Zoopark
@@ -30809,6 +30936,7 @@
 
   [type.waterway.canal]
     en = Canal
+    bn = খাল
     af = Kanaal
     ar = قناة
     az = Kanal
@@ -31036,6 +31164,7 @@
 
   [type.waterway.drain]
     en = Drain
+    bn = নালা
     af = Afvoer
     ar = قناة تصريف المياه
     az = Kanalizasiya
@@ -31098,6 +31227,7 @@
 
   [type.waterway.river]
     en = River
+    bn = নদী
     af = Rivier
     ar = نهر
     az = Çay
@@ -31178,6 +31308,7 @@
 
   [type.waterway.stream]
     en = Stream
+    bn = পানিস্রোত
     af = Beek
     ar = تيار مائي
     az = Çay

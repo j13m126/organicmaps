@@ -40,6 +40,7 @@
   ar = أفغانستان
   az = Əfqanıstan
   be = Афганістан
+  bn = আফগানিস্তান
   ca = Afganistan
   cs = Afghánistán
   da = Afghanistan
@@ -115,6 +116,7 @@
   ar = ألبانيا
   az = Albaniya
   be = Албанія
+  bn = আলবেনিয়া
   ca = Albània
   cs = Albánie
   da = Albanien
@@ -153,6 +155,7 @@
   ar = الجزائر
   az = Əlcəzair
   be = Алжыр
+  bn = আলজেরিয়া
   ca = Algèria
   cs = Alžírsko
   da = Algeriet
@@ -261,6 +264,7 @@
   ar = أندورا
   az = Andorra
   be = Андора
+  bn = অ্যান্ডোরা
   ca = Andorra
   cs = Andorra
   da = Andorra
@@ -298,6 +302,7 @@
   ar = أنجولا
   az = Anqola
   be = Ангола
+  bn = অ্যাঙ্গোলা
   ca = Angola
   cs = Angola
   da = Angola
@@ -410,6 +415,7 @@
   ar = أنتيغوا وباربودا
   az = Antiqua və Barbuda
   be = Антыгуа і Барбуда
+  bn = অ্যান্টিগুয়া ও বার্বুডা
   ca = Antigua i Barbuda
   cs = Antigua a Barbuda
   da = Antigua og Barbuda
@@ -447,6 +453,7 @@
   ar = الأرجنتين
   az = Argentina
   be = Аргенціна
+  bn = আর্জেন্টিনা
   ca = Argentina
   cs = Argentina
   da = Argentina
@@ -767,6 +774,7 @@
   ar = أرمينيا
   az = Ermənistan
   be = Арменія
+  bn = আর্মেনিয়া
   ca = Armènia
   cs = Arménie
   da = Armenien
@@ -805,6 +813,7 @@
   ar = أستراليا
   az = Avstraliya
   be = Аўстралія
+  bn = অস্ট্রেলিয়া
   ca = Austràlia
   cs = Austrálie
   da = Australien
@@ -1123,6 +1132,7 @@
   ar = النمسا
   az = Avstriya
   be = Аўстрыя
+  bn = অস্ট্রিয়া
   ca = Àustria
   cs = Rakousko
   da = Østrig
@@ -1476,6 +1486,7 @@
   ar = أذربيجان
   az = Azərbaycan
   be = Азербайджан
+  bn = আজারবাইজান
   ca = Azerbaidjan
   cs = Ázerbájdžán
   da = Aserbajdsjan
@@ -1550,6 +1561,7 @@
   ar = البحرين
   az = Bəhreyn
   be = Бахрэйн
+  bn = বাহরাইন
   ca = Bahrain
   cs = Bahrajn
   da = Bahrain
@@ -1588,6 +1600,7 @@
   ar = بنغلاديش
   az = Banqladeş
   be = Бангладэш
+  bn = বাংলাদেশ
   ca = Bangla Desh
   cs = Bangladéš
   da = Bangladesh
@@ -1626,6 +1639,7 @@
   ar = باربادوس
   az = Barbados
   be = Барбадас
+  bn = বার্বাডোস
   ca = Barbados
   cs = Barbados
   da = Barbados
@@ -1664,6 +1678,7 @@
   ar = بيلاروسيا
   az = Belarusiya
   be = Беларусь
+  bn = বেলারুশ
   ca = Belarús
   cs = Bělorusko
   da = Hviderusland
@@ -1912,6 +1927,7 @@
   ar = بلجيكا
   az = Belçika
   be = Бельгія
+  bn = বেলজিয়াম
   ca = Bèlgica
   cs = Belgie
   da = Belgien
@@ -2290,6 +2306,7 @@
   ar = بليز
   az = Beliz
   be = Беліз
+  bn = বেলিজ
   ca = Belize
   cs = Belize
   da = Belize
@@ -2327,6 +2344,7 @@
   ar = بنين
   az = Benin
   be = Бенін
+  bn = বেনিন
   ca = Benín
   cs = Benin
   da = Benin
@@ -2401,6 +2419,7 @@
   ar = بوتان
   az = Butan
   be = Бутан
+  bn = ভুটান
   ca = Bhutan
   cs = Bhútán
   da = Bhutan
@@ -2439,6 +2458,7 @@
   ar = بوليفيا
   az = Boliviya
   be = Балівія
+  bn = বলিভিয়া
   ca = Bolívia
   cs = Bolívie
   da = Bolivia
@@ -2553,6 +2573,7 @@
   ar = البوسنة والهرسك
   az = Bosniya və Herseqovina
   be = Боснія і Герцагавіна
+  bn = বসনিয়া ও হার্জেগোভিনা
   ca = Bòsnia i Hercegovina
   cs = Bosna a Hercegovina
   da = Bosnien-Hercegovina
@@ -2696,6 +2717,7 @@
   ar = بوتسوانا
   az = Botsvana
   be = Батсвана
+  bn = বতসোয়ানা
   ca = Botswana
   cs = Botswana
   da = Botswana
@@ -2734,6 +2756,7 @@
   ar = البرازيل
   az = Braziliya
   be = Бразілія
+  bn = ব্রাজিল
   ca = Brasil
   cs = Brazílie
   da = Brasilien
@@ -3472,6 +3495,7 @@
   ar = بروناي
   az = Bruney
   be = Бруней
+  bn = ব্রুনাই
   ca = Brunei
   cs = Brunej
   da = Brunei
@@ -3510,6 +3534,7 @@
   ar = بلغاريا
   az = Bolqarıstan
   be = Балгарыя
+  bn = বুলগেরিয়া
   ca = Bulgària
   cs = Bulharsko
   da = Bulgarien
@@ -3548,6 +3573,7 @@
   ar = بوركينا فاسو
   az = Burkina Faso
   be = Буркіна-Фасо
+  bn = বুর্কিনা ফাসো
   ca = Burkina Faso
   cs = Burkina Faso
   da = Burkina Faso
@@ -3585,6 +3611,7 @@
   ar = بوروندي
   az = Burundi
   be = Бурундзі
+  bn = বুরুন্ডি
   ca = Burundi
   cs = Burundi
   da = Burundi
@@ -3660,6 +3687,7 @@
   ar = كمبوديا
   az = Kamboca
   be = Камбоджа
+  bn = কম্বোডিয়া
   ca = Cambodja
   cs = Kambodža
   da = Cambodja
@@ -3698,6 +3726,7 @@
   ar = الكاميرون
   az = Kamerun
   be = Камерун
+  bn = ক্যামেরুন
   ca = Camerun
   cs = Kamerun
   da = Cameroun
@@ -3841,6 +3870,7 @@
   ar = كندا
   az = Kanada
   be = Канада
+  bn = কানাডা
   ca = Canadà
   cs = Kanada
   da = Canada
@@ -6173,6 +6203,7 @@
   ar = الرأس الأخضر
   az = Kabo Verde
   be = Каба-Вердэ
+  bn = কেপ ভার্দে
   ca = Cap Verd
   cs = Kapverdy
   da = Kap Verde
@@ -6321,6 +6352,7 @@
   ar = جمهورية أفريقيا الوسطى
   az = Mərkəzi Afrika Respublikası
   be = Цэнтральна-Афрыканская Рэспубліка
+  bn = মধ্য আফ্রিকান প্রজাতন্ত্র
   ca = República Centreafricana
   cs = Středoafrická republika
   da = Centralafrikanske Republik
@@ -6394,6 +6426,7 @@
   ar = تشاد
   az = Çad
   be = Чад
+  bn = চাদ
   ca = Txad
   cs = Čad
   da = Tchad
@@ -6432,6 +6465,7 @@
   ar = تشيلي
   az = Çili
   be = Чылі
+  bn = চিলি
   ca = Xile
   cs = Chile
   da = Chile
@@ -7520,6 +7554,7 @@
   ar = كولومبيا
   az = Kolumbiya
   be = Калумбія
+  bn = কলম্বিয়া
   ca = Colòmbia
   cs = Kolumbie
   da = Colombia
@@ -7700,6 +7735,7 @@
   ar = جزر القمر
   az = Komor adaları
   be = Каморскія Астравы
+  bn = কোমোরোস
   ca = Comores
   cs = Komory
   da = Comorerne
@@ -7773,6 +7809,7 @@
   ar = جمهورية الكونغو الديمقراطية
   az = Konqo Demokratik Respublikası
   be = Дэмакратычная Рэспубліка Конга
+  bn = গণতান্ত্রিক কঙ্গো প্রজাতন্ত্র
   ca = República Democràtica del Congo
   cs = Demokratická republika Kongo
   da = Demokratiske Republik Congo
@@ -7845,6 +7882,7 @@
   ar = كوستاريكا
   az = Kosta Rika
   be = Коста-Рыка
+  bn = কোস্টা রিকা
   ca = Costa Rica
   cs = Kostarika
   da = Costa Rica
@@ -7883,6 +7921,7 @@
   ar = كوت ديفوار
   az = Fil Dişi Sahili
   be = Кот-д'Івуар
+  bn = কোত দিভোয়ার
   ca = Costa d'Ivori
   cs = Pobřeží slonoviny
   da = Elfenbenskysten
@@ -7957,6 +7996,7 @@
   ar = كرواتيا
   az = Xorvatiya
   be = Харватыя
+  bn = ক্রোয়েশিয়া
   ca = Croàcia
   cs = Chorvatsko
   da = Kroatien
@@ -7995,6 +8035,7 @@
   ar = كوبا
   az = Kuba
   be = Куба
+  bn = কিউবা
   ca = Cuba
   cs = Kuba
   da = Cuba
@@ -8033,6 +8074,7 @@
   ar = قبرص
   az = Kipr
   be = Кіпр
+  bn = সাইপ্রাস
   ca = Xipre
   cs = Kypr
   da = Cypern
@@ -8071,6 +8113,7 @@
   ar = التشيك
   az = Çexiya Respublikası
   be = Чэхія
+  bn = চেক প্রজাতন্ত্র
   ca = República Txeca
   cs = Česko
   da = Tjekkiet
@@ -8625,6 +8668,7 @@
   ar = الدنمارك
   az = Danimarka
   be = Данія
+  bn = ডেনমার্ক
   ca = Dinamarca
   cs = Dánsko
   da = Danmark
@@ -8833,6 +8877,7 @@
   ar = جيبوتي
   az = Cibuti
   be = Джыбуці
+  bn = জিবুতি
   ca = Djibouti
   cs = Džibutsko
   da = Djibouti
@@ -8871,6 +8916,7 @@
   ar = دومينيكا
   az = Dominika
   be = Дамініка
+  bn = ডোমিনিকা
   ca = Dominica
   cs = Dominika
   da = Dominica
@@ -8909,6 +8955,7 @@
   ar = جمهورية الدومنيكان
   az = Dominik respublikası
   be = Дамініканская Рэспубліка
+  bn = ডোমিনিকান প্রজাতন্ত্র
   ca = República Dominicana
   cs = Dominikánská republika
   da = Dominikanske Republik
@@ -8946,6 +8993,7 @@
   ar = تيمور الشرقية
   az = Şərqi Timor
   be = Усходні Тымор
+  bn = পূর্ব তিমুর
   ca = Timor Oriental
   cs = Východní Timor
   da = Østtimor
@@ -8983,6 +9031,7 @@
   ar = الإكوادور
   az = Ekvador
   be = Эквадор
+  bn = ইকুয়েডর
   ca = Equador
   cs = Ekvádor
   da = Ecuador
@@ -9021,6 +9070,7 @@
   ar = مصر
   az = Misir
   be = Егіпет
+  bn = মিশর
   ca = Egipte
   cs = Egypt
   da = Egypten
@@ -9059,6 +9109,7 @@
   ar = السلفادور
   az = El Salvador
   be = Сальвадор
+  bn = এল সালভাদোর
   ca = El Salvador
   cs = Salvador
   da = El Salvador
@@ -9096,6 +9147,7 @@
   ar = غينيا الاستوائية
   az = Ekvatorial Qvineya
   be = Экватарыяльная Гвінея
+  bn = বিষুবীয় গিনি
   ca = Guinea Equatorial
   cs = Rovníková Guinea
   da = Ækvatorialguinea
@@ -9133,6 +9185,7 @@
   ar = إرتريا
   az = Eritreya
   be = Эрытрэя
+  bn = ইরিত্রিয়া
   ca = Eritrea
   cs = Eritrea
   da = Eritrea
@@ -9170,6 +9223,7 @@
   ar = إستونيا
   az = Estoniya
   be = Эстонія
+  bn = এস্তোনিয়া
   ca = Estònia
   cs = Estonsko
   da = Estland
@@ -9278,6 +9332,7 @@
   ar = إثيوبيا
   az = Efiopiya
   be = Эфіопія
+  bn = ইথিওপিয়া
   ca = Etiòpia
   cs = Etiopie
   da = Etiopien
@@ -9388,6 +9443,7 @@
   ar = مايكرونيزيا
   az = Mikroneziya
   be = Федэратыўныя Штаты Мікранезіі
+  bn = মাইক্রোনেশিয়া যুক্তরাজ্য
   ca = Estats federats de Micronèsia
   cs = Mikronésie
   da = Mikronesien
@@ -9425,6 +9481,7 @@
   ar = فيجي
   az = Fici
   be = Фіджы
+  bn = ফিজি
   ca = Fiji
   cs = Fidži
   da = Fiji
@@ -9462,6 +9519,7 @@
   ar = فنلندا
   az = Finlandiya
   be = Фінляндыя
+  bn = ফিনল্যান্ড
   ca = Finlàndia
   cs = Finsko
   da = Finland
@@ -9745,6 +9803,7 @@
   ar = فرنسا
   az = Fransa
   be = Францыя
+  bn = ফ্রান্স
   ca = França
   cs = Francie
   da = Frankrig
@@ -13537,6 +13596,7 @@
   ar = الغابون
   az = Qabon
   be = Габон
+  bn = গ্যাবন
   ca = Gabon
   cs = Gabon
   da = Gabon
@@ -13611,6 +13671,7 @@
   ar = جورجيا
   az = Gürcüstan
   be = Грузія
+  bn = জর্জিয়া
   ca = Geòrgia
   cs = Gruzie
   da = Georgien
@@ -13648,6 +13709,7 @@
   ar = ألمانيا
   az = Almaniya
   be = Германія
+  bn = জার্মানি
   ca = Alemanya
   cs = Německo
   da = Tyskland
@@ -15377,6 +15439,7 @@
   ar = غانا
   az = Qana
   be = Гана
+  bn = ঘানা
   ca = Ghana
   cs = Ghana
   da = Ghana
@@ -15452,6 +15515,7 @@
   ar = اليونان
   az = Yunanıstan
   be = Грэцыя
+  bn = গ্রিস
   ca = Grècia
   cs = Řecko
   da = Grækenland
@@ -15765,6 +15829,7 @@
   ar = جرينادا
   az = Qrenada
   be = Грэнада
+  bn = গ্রেনাডা
   ca = Grenada
   cs = Grenada
   da = Grenada
@@ -15838,6 +15903,7 @@
   ar = غواتيمالا
   az = Qvatemala
   be = Гватэмала
+  bn = গুয়াতেমালা
   ca = Guatemala
   cs = Guatemala
   da = Guatemala
@@ -15911,6 +15977,7 @@
   ar = غينيا
   az = Qvineya
   be = Гвінея
+  bn = গিনি
   ca = Guinea
   cs = Guinea
   da = Guinea
@@ -15948,6 +16015,7 @@
   ar = غينيا بيساو
   az = Qvineya-Bisau
   be = Гвінея-Бісаў
+  bn = গিনি-বিসাউ
   ca = Guinea Bissau
   cs = Guinea-Bissau
   da = Guinea-Bissau
@@ -15985,6 +16053,7 @@
   ar = غويانا
   az = Qayana
   be = Гаяна
+  bn = গায়ানা
   ca = Guyana
   cs = Guyana
   da = Guyana
@@ -16023,6 +16092,7 @@
   ar = هايتي
   az = Haiti
   be = Гаіці
+  bn = হাইতি
   ca = Haití
   cs = Haiti
   da = Haiti
@@ -16061,6 +16131,7 @@
   ar = هندوراس
   az = Honduras
   be = Гандурас
+  bn = হন্ডুরাস
   ca = Hondures
   cs = Honduras
   da = Honduras
@@ -16099,6 +16170,7 @@
   ar = المجر
   az = Macarıstan
   be = Венгрыя
+  bn = হাঙ্গেরি
   ca = Hongria
   cs = Maďarsko
   da = Ungarn
@@ -16242,6 +16314,7 @@
   ar = آيسلندا
   az = İslandiya
   be = Ісландыя
+  bn = আইসল্যান্ড
   ca = Islàndia
   cs = Island
   da = Island
@@ -16317,6 +16390,7 @@
   ar = الهند
   az = Hindistan
   be = Індыя
+  bn = ভারত
   ca = Índia
   cs = Indie
   da = Indien
@@ -16392,6 +16466,7 @@
   ar = أندرا برديش
   az = Andhra Pradeş
   be = Андхра-Прадэш
+  bn = অন্ধ্রপ্রদেশ
   ca = Andhra Pradesh
   cs = Ándhrapradéš
   da = Andhra Pradesh
@@ -16429,6 +16504,7 @@
   ar = أروناجل برديش
   az = Arunaçal Pradeş
   be = Аруначал-Прадэш
+  bn = অরুণাচল প্রদেশ
   ca = Arunachal Pradesh
   cs = Arunáčalpradéš
   da = Arunachal Pradesh
@@ -16466,6 +16542,7 @@
   ar = أسام
   az = Assam
   be = Асам
+  bn = আসাম
   ca = Assam
   cs = Ásám
   da = Assam
@@ -16503,6 +16580,7 @@
   ar = بيهار
   az = Bihar
   be = Біхар
+  bn = বিহার
   ca = Bihar
   cs = Bihár
   da = Bihar
@@ -16577,6 +16655,7 @@
   ar = تشاتيسغار
   az = Chhattisgarh
   be = Чхатысгарх
+  bn = ছত্তিশগড়
   ca = Chhattisgarh
   cs = Čhattísgarh
   da = Chattisgarh
@@ -16651,6 +16730,7 @@
   ar = غوا
   az = Qoa
   be = Гоа
+  bn = গোয়া
   ca = Goa
   cs = Goa
   da = Goa
@@ -16688,6 +16768,7 @@
   ar = غوجارات
   az = Qucarat
   be = Гуджарат
+  bn = গুজরাত
   ca = Gujarat
   cs = Gudžarát
   da = Gujarat
@@ -16725,6 +16806,7 @@
   ar = هاريانا
   az = Haryana
   be = Хар'яна
+  bn = হরিয়ানা
   ca = Haryana
   cs = Harijána
   da = Haryana
@@ -16762,6 +16844,7 @@
   ar = هيماجل برديش
   az = Himaçal Pradeş
   be = Хімачал-Прадэш
+  bn = হিমাচল প্রদেশ
   ca = Himachal Pradesh
   cs = Himáčalpradéš
   da = Himachal Pradesh
@@ -16799,6 +16882,7 @@
   ar = جامو وكشمير
   az = Cammu və Kəşmir
   be = Джаму і Кашмір
+  bn = জম্মু ও কাশ্মীর
   ca = Jammu i Caixmir
   cs = Džammú a Kašmír
   da = Jammu og Kashmir
@@ -16836,6 +16920,7 @@
   ar = جهارخاند
   az = Jharkhand
   be = Джхаркханд
+  bn = ঝাড়খণ্ড
   ca = Jharkhand
   cs = Džhárkhand
   da = Jharkhand
@@ -16873,6 +16958,7 @@
   ar = كارناتاكا
   az = Karnataka
   be = Карнатака
+  bn = কর্ণাটক
   ca = Karnataka
   cs = Karnátaka
   da = Karnataka
@@ -16910,6 +16996,7 @@
   ar = كيرلا
   az = Kerala
   be = Керала
+  bn = কেরল
   ca = Kerala
   cs = Kérala
   da = Kerala
@@ -16984,6 +17071,7 @@
   ar = ماديا براديش
   az = Madhya Pradesh
   be = Мадх'я-Прадэш
+  bn = মধ্যপ্রদেশ
   ca = Madhya Pradesh
   cs = Madhjapradéš
   da = Madhya Pradesh
@@ -17021,6 +17109,7 @@
   ar = ماهاراشترا
   az = Maharaştra
   be = Махараштра
+  bn = মহারাষ্ট্র
   ca = Maharashtra
   cs = Maháráštra
   da = Maharashtra
@@ -17058,6 +17147,7 @@
   ar = مانيبور
   az = Manipur
   be = Маніпур
+  bn = মণিপুর
   ca = Manipur
   cs = Manípur
   da = Manipur
@@ -17095,6 +17185,7 @@
   ar = ميغالايا
   az = Meghalaya
   be = Мегхалая
+  bn = মেঘালয়
   ca = Meghalaya
   cs = Méghálaja
   da = Meghalaya
@@ -17132,6 +17223,7 @@
   ar = ميزورام
   az = Mizoram
   be = Мізарам
+  bn = মিজোরাম
   ca = Mizoram
   cs = Mizóram
   da = Mizoram
@@ -17169,6 +17261,7 @@
   ar = ناجالاند
   az = Naqaland
   be = Нагаленд
+  bn = নাগাল্যান্ড
   ca = Nagaland
   cs = Nágáland
   da = Nagaland
@@ -17206,6 +17299,7 @@
   ar = أوريسا
   az = Orissa
   be = Арыса
+  bn = ওড়িশা
   ca = Odisha
   cs = Urísa
   da = Orissa
@@ -17243,6 +17337,7 @@
   ar = بنجاب
   az = Pəncab
   be = Пенджаб
+  bn = পাঞ্জাব, ভারত
   ca = Panjab
   cs = Paňdžáb
   da = Punjab
@@ -17280,6 +17375,7 @@
   ar = راجستان
   az = Racastan
   be = Раджастхан
+  bn = রাজস্থান
   ca = Rajasthan
   cs = Rádžasthán
   da = Rajasthan
@@ -17317,6 +17413,7 @@
   ar = سيكيم
   az = Sikkim
   be = Сікім
+  bn = সিকিম
   ca = Sikkim
   cs = Sikkim
   da = Sikkim
@@ -17354,6 +17451,7 @@
   ar = تامل نادو
   az = Tamil nadu
   be = Тамілнад
+  bn = তামিলনাড়ু
   ca = Tamil Nadu
   cs = Tamilnádu
   da = Tamil Nadu
@@ -17391,6 +17489,7 @@
   ar = تيلانغانا
   az = Telangana
   be = Тэлангана
+  bn = তেলেঙ্গানা
   ca = Telangana
   cs = Telangána
   da = Telangana
@@ -17428,6 +17527,7 @@
   ar = ترايبورا
   az = Tripura
   be = Трыпура
+  bn = ত্রিপুরা
   ca = Tripura
   cs = Tripura
   da = Tripura
@@ -17465,6 +17565,7 @@
   ar = أتر برديش
   az = Utar Pradeş
   be = Утар-Прадэш
+  bn = উত্তরপ্রদেশ
   ca = Uttar Pradesh
   cs = Uttarpradéš
   da = Uttar Pradesh
@@ -17502,6 +17603,7 @@
   ar = أوتاراخند
   az = Uttarakhand
   be = Утаракханд
+  bn = উত্তরাখণ্ড
   ca = Uttarakhand
   cs = Uttarákhand
   da = Uttarakhand
@@ -17539,6 +17641,7 @@
   ar = بنغال الغربية
   az = Qərbi Benqal
   be = Заходняя Бенгалія
+  bn = পশ্চিমবঙ্গ
   ca = Bengala occidental
   cs = Západní Bengálsko
   da = Vestbengalen
@@ -17613,6 +17716,7 @@
   ar = إندونيسيا
   az = İndoneziya
   be = Інданезія
+  bn = ইন্দোনেশিয়া
   ca = Indonèsia
   cs = Indonésie
   da = Indonesien
@@ -17930,6 +18034,7 @@
   ar = إيران
   az = Iranlı
   be = Іран
+  bn = ইরান
   ca = Iran
   cs = Írán
   da = Iran
@@ -18038,6 +18143,7 @@
   ar = العراق
   az = İraq
   be = Ірак
+  bn = ইরাক
   ca = Iraq
   cs = Irák
   da = Irak
@@ -18076,6 +18182,7 @@
   ar = جمهورية أيرلندا
   az = İrlandiya
   be = Ірландыя
+  bn = প্রজাতন্ত্রী আয়ারল্যান্ড
   ca = Irlanda
   cs = Irsko
   da = Irland
@@ -18290,6 +18397,7 @@
   ar = إسرائيل
   az = İsrail
   be = Ізраіль
+  bn = ইসরায়েল
   ca = Israel
   cs = Izrael
   da = Israel
@@ -18364,6 +18472,7 @@
   ar = إيطاليا
   az = İtaliya
   be = Італія
+  bn = ইতালি
   ca = Itàlia
   cs = Itálie
   da = Italien
@@ -20530,6 +20639,7 @@
   ar = جامايكا
   az = Yamayka
   be = Ямайка
+  bn = জ্যামাইকা
   ca = Jamaica
   cs = Jamajka
   da = Jamaica
@@ -20568,6 +20678,7 @@
   ar = اليابان
   az = Yaponiya
   be = Японія
+  bn = জাপান
   ca = Japó
   cs = Japonsko
   da = Japan
@@ -22636,6 +22747,7 @@
   ar = الأردن
   az = İordaniya
   be = Іарданія
+  bn = জর্ডান
   ca = Jordà
   cs = Jordánsko
   da = Jordan
@@ -22711,6 +22823,7 @@
   ar = كازاخستان
   az = Qazaxıstan
   be = Казахстан
+  bn = কাজাখস্তান
   ca = Kazakhstan
   cs = Kazachstán
   da = Kasakhstan
@@ -22786,6 +22899,7 @@
   ar = كينيا
   az = Keniya
   be = Кенія
+  bn = কেনিয়া
   ca = Kenya
   cs = Keňa
   da = Kenya
@@ -22824,6 +22938,7 @@
   ar = ليسوتو
   az = Lesoto
   be = Лесота
+  bn = লেসোথো
   ca = Lesotho
   cs = Lesotho
   da = Lesotho
@@ -22861,6 +22976,7 @@
   ar = كيريباتي
   az = Kiribati
   be = Кірыбаці
+  bn = কিরিবাস
   ca = Kiribati
   cs = Kiribati
   da = Kiribati
@@ -22898,6 +23014,7 @@
   ar = الكويت
   az = Küveyt
   be = Кувейт
+  bn = কুয়েত
   ca = Kuwait
   cs = Kuvajt
   da = Kuwait
@@ -22936,6 +23053,7 @@
   ar = قرغيزستان
   az = Qırğızıstan
   be = Кыргызстан
+  bn = কিরগিজস্তান
   ca = Kirguizistan
   cs = Kyrgyzstán
   da = Kirgisistan
@@ -22973,6 +23091,7 @@
   ar = لاوس
   az = Laos
   be = Лаос
+  bn = লাওস
   ca = Laos
   cs = Laos
   da = Laos
@@ -23010,6 +23129,7 @@
   ar = لاتفيا
   az = Latviya
   be = Латвія
+  bn = লাতভিয়া
   ca = Letònia
   cs = Lotyšsko
   da = Letland
@@ -23047,6 +23167,7 @@
   ar = لبنان
   az = Livan
   be = Ліван
+  bn = লেবানন
   ca = Líban
   cs = Libanon
   da = Libanon
@@ -23085,6 +23206,7 @@
   ar = ليبيريا
   az = Liberiya
   be = Ліберыя
+  bn = লাইবেরিয়া
   ca = Libèria
   cs = Libérie
   da = Liberia
@@ -23123,6 +23245,7 @@
   ar = ليبيا
   az = Liviya
   be = Лівія
+  bn = লিবিয়া
   ca = Líbia
   cs = Libye
   da = Libyen
@@ -23161,6 +23284,7 @@
   ar = ليختنشتاين
   az = Lixtenşteyn
   be = Ліхтэнштэйн
+  bn = লিশটেনস্টাইন
   ca = Liechtenstein
   cs = Lichtenštejnsko
   da = Liechtenstein
@@ -23199,6 +23323,7 @@
   ar = ليتوانيا
   az = Litva
   be = Літва
+  bn = লিথুয়ানিয়া
   ca = Lituània
   cs = Litva
   da = Litauen
@@ -23274,6 +23399,7 @@
   ar = لوكسمبورغ
   az = Lüksemburq
   be = Люксембург
+  bn = লুক্সেমবার্গ
   ca = Luxemburg
   cs = Lucembursko
   da = Luxembourg
@@ -23349,6 +23475,7 @@
   ar = مدغشقر
   az = Madaqaskar
   be = Мадагаскар
+  bn = মাদাগাস্কার
   ca = Madagascar
   cs = Madagaskar
   da = Madagaskar
@@ -23387,6 +23514,7 @@
   ar = مالاوي
   az = Malavi
   be = Малаві
+  bn = মালাউই
   ca = Malawi
   cs = Malawi
   da = Malawi
@@ -23424,6 +23552,7 @@
   ar = ماليزيا
   az = Malayziya
   be = Малайзія
+  bn = মালয়েশিয়া
   ca = Malàisia
   cs = Malajsie
   da = Malaysia
@@ -23462,6 +23591,7 @@
   ar = جزر المالديف
   az = Maldiv adaları
   be = Мальдывы
+  bn = মালদ্বীপ
   ca = Maldives
   cs = Maledivy
   da = Maldiverne
@@ -23500,6 +23630,7 @@
   ar = مالي
   az = Maliyyə
   be = Малі
+  bn = মালি
   ca = Mali
   cs = Mali
   da = Mali
@@ -23538,6 +23669,7 @@
   ar = مالطا
   az = Malta
   be = Мальта
+  bn = মাল্টা
   ca = Malta
   cs = Malta
   da = Malta
@@ -23576,6 +23708,7 @@
   ar = جزر مارشال
   az = Marşal adaları
   be = Маршалавы Астравы
+  bn = মার্শাল দ্বীপপুঞ্জ
   ca = Illes Marshall
   cs = Marshallovy ostrovy
   da = Marshalløerne
@@ -23723,6 +23856,7 @@
   ar = موريتانيا
   az = Mavritaniya
   be = Маўрытанія
+  bn = মৌরিতানিয়া
   ca = Mauritània
   cs = Mauritánie
   da = Mauretanien
@@ -23760,6 +23894,7 @@
   ar = موريشيوس
   az = Mavrikiy
   be = Маўрыкій
+  bn = মরিশাস
   ca = Maurici
   cs = Mauricius
   da = Mauritius
@@ -23798,6 +23933,7 @@
   ar = المكسيك
   az = Meksikalı
   be = Мексіка
+  bn = মেক্সিকো
   ca = Mèxic
   cs = Mexiko
   da = Mexico
@@ -24192,6 +24328,7 @@
   ar = مولدوفا
   az = Moldova
   be = Малдова
+  bn = মলদোভা
   ca = Moldàvia
   cs = Moldavsko
   da = Moldova
@@ -24230,6 +24367,7 @@
   ar = موناكو
   az = Monako
   be = Манака
+  bn = মোনাকো
   ca = Mònaco
   cs = Monako
   da = Monaco
@@ -24268,6 +24406,7 @@
   ar = منغوليا
   az = Monqolustan
   be = Манголія
+  bn = মঙ্গোলিয়া
   ca = Mongòlia
   cs = Mongolsko
   da = Mongoliet
@@ -24306,6 +24445,7 @@
   ar = الجبل الأسود
   az = Monteneqro
   be = Чарнагорыя
+  bn = মন্টিনিগ্রো
   ca = Montenegro
   cs = Černá Hora
   da = Montenegro
@@ -24379,6 +24519,7 @@
   ar = المغرب
   az = Mərakeş
   be = Марока
+  bn = মরক্কো
   ca = Marroc
   cs = Maroko
   da = Marokko
@@ -24555,6 +24696,7 @@
   ar = موزمبيق
   az = Mozambik
   be = Мазамбік
+  bn = মোজাম্বিক
   ca = Moçambic
   cs = Mosambik
   da = Mozambique
@@ -24592,6 +24734,7 @@
   ar = بورما
   az = Myanma
   be = М'янма
+  bn = মিয়ানমার
   ca = Myanmar
   cs = Myanmar
   da = Burma
@@ -24674,6 +24817,7 @@
   ar = ناميبيا
   az = Namibiya
   be = Намібія
+  bn = নামিবিয়া
   ca = Namíbia
   cs = Namibie
   da = Namibia
@@ -24712,6 +24856,7 @@
   ar = ناورو
   az = Nauru
   be = Науру
+  bn = নাউরু
   ca = Nauru
   cs = Nauru
   da = Nauru
@@ -24749,6 +24894,7 @@
   ar = نيبال
   az = Nepal
   be = Непал
+  bn = নেপাল
   ca = Nepal
   cs = Nepál
   da = Nepal
@@ -24857,6 +25003,7 @@
   ar = هولندا
   az = Hollandiya
   be = Нідэрланды
+  bn = নেদারল্যান্ড রাজ্য
   ca = Països Baixos
   cs = Nizozemsko
   da = Holland
@@ -25800,6 +25947,7 @@
   ar = نيوزيلندا
   az = Yeni Zelandiya
   be = Новая Зеландыя
+  bn = নিউজিল্যান্ড
   ca = Nova Zelanda
   cs = Nový Zéland
   da = New Zealand
@@ -25978,6 +26126,7 @@
   ar = نيكاراجوا
   az = Nikaraqua
   be = Нікарагуа
+  bn = নিকারাগুয়া
   ca = Nicaragua
   cs = Nikaragua
   da = Nicaragua
@@ -26015,6 +26164,7 @@
   ar = النيجر
   az = Niger
   be = Нігер
+  bn = নাইজার
   ca = Níger
   cs = Niger
   da = Niger
@@ -26052,6 +26202,7 @@
   ar = نيجيريا
   az = Nigeriya
   be = Нігерыя
+  bn = নাইজেরিয়া
   ca = Nigèria
   cs = Nigérie
   da = Nigeria
@@ -26200,6 +26351,7 @@
   ar = كوريا الشمالية
   az = Simali Koreya
   be = КНДР
+  bn = উত্তর কোরিয়া
   ca = Corea del Nord
   cs = Severní Korea
   da = Nordkorea
@@ -26238,6 +26390,7 @@
   ar = النرويج
   az = Norveç
   be = Нарвегія
+  bn = নরওয়ে
   ca = Noruega
   cs = Norsko
   da = Norge
@@ -26698,6 +26851,7 @@
   ar = سلطنة عمان
   az = Oman
   be = Аман
+  bn = ওমান
   ca = Oman
   cs = Omán
   da = Oman
@@ -26773,6 +26927,7 @@
   ar = باكستان
   az = Pakistan
   be = Пакістан
+  bn = পাকিস্তান
   ca = Pakistan
   cs = Pákistán
   da = Pakistan
@@ -26811,6 +26966,7 @@
   ar = بالاو
   az = Palau
   be = Палау
+  bn = পালাউ
   ca = Palau
   cs = Palau
   da = Palau
@@ -26848,6 +27004,7 @@
   ar = الأراضي الفلسطينية
   az = Fələstin ərazisi
   be = Палесцінская аўтаномія
+  bn = ফিলিস্তিন
   ca = Territoris Palestins
   cs = Palestinská autonomní území
   da = Palæstinensiske områder
@@ -26921,6 +27078,7 @@
   ar = بنما
   az = Panama
   be = Панама
+  bn = পানামা
   ca = Panamà
   cs = Panama
   da = Panama
@@ -26958,6 +27116,7 @@
   ar = بابوا غينيا الجديدة
   az = Papua Yeni Qvineya
   be = Папуа — Новая Гвінея
+  bn = পাপুয়া নিউগিনি
   ca = Papua Nova Guinea
   cs = Papua-Nová Guinea
   da = Papua Ny Guinea
@@ -26996,6 +27155,7 @@
   ar = باراغواي
   az = Paraqvay
   be = Парагвай
+  bn = প্যারাগুয়ে
   ca = Paraguai
   cs = Paraguay
   da = Paraguay
@@ -27071,6 +27231,7 @@
   ar = الصين
   az = Çinli
   be = Кітай
+  bn = গণচীন
   ca = Xina
   cs = Čína
   da = Kina
@@ -27109,6 +27270,7 @@
   ar = بيرو
   az = Peru
   be = Перу
+  bn = পেরু
   ca = Perú
   cs = Peru
   da = Peru
@@ -27217,6 +27379,7 @@
   ar = الفلبين
   az = Filippin
   be = Філіпіны
+  bn = ফিলিপাইন
   ca = Filipines
   cs = Filipíny
   da = Filippinerne
@@ -27465,6 +27628,7 @@
   ar = بولندا
   az = Polşa
   be = Польшча
+  bn = পোল্যান্ড
   ca = Polònia
   cs = Polsko
   da = Polen
@@ -28063,6 +28227,7 @@
   ar = البرتغال
   az = Portuqaliya
   be = Партугалія
+  bn = পর্তুগাল
   ca = Portugal
   cs = Portugalsko
   da = Portugal
@@ -28171,6 +28336,7 @@
   ar = قطر
   az = Qatar
   be = Катар
+  bn = কাতার
   ca = Qatar
   cs = Katar
   da = Qatar
@@ -28245,6 +28411,7 @@
   ar = رومانيا
   az = Rumıniya
   be = Румынія
+  bn = রোমানিয়া
   ca = Romania
   cs = Rumunsko
   da = Rumænien
@@ -31496,6 +31663,7 @@
   ar = روسيا
   az = Rusiya
   be = Расія
+  bn = রাশিয়া
   ca = Rússia
   cs = Rusko
   da = Rusland
@@ -31534,6 +31702,7 @@
   ar = رواندا
   az = Ruanda
   be = Руанда
+  bn = রুয়ান্ডা
   ca = Ruanda
   cs = Rwanda
   da = Rwanda
@@ -31716,6 +31885,7 @@
   ar = سانت لوسيا
   az = Müqəddəs Lusiya
   be = Сент-Люсія
+  bn = সেন্ট লুসিয়া
   ca = Saint Lucia
   cs = Svatá Lucie
   da = Saint Lucia
@@ -31789,6 +31959,7 @@
   ar = سانت فنسينت والجرينادينز
   az = Sent Vinsent və Qrenadinlər
   be = Сент-Вінсент і Грэнадзіны
+  bn = সেন্ট ভিনসেন্ট ও গ্রেনাডাইন
   ca = Saint Vincent i les granades
   cs = Svatý Vincenc a Grenadiny
   da = Saint Vincent og Grenadinerne
@@ -31826,6 +31997,7 @@
   ar = ساموا
   az = Samoa
   be = Самоа
+  bn = সামোয়া
   ca = Samoa
   cs = Samoa
   da = Samoa
@@ -31863,6 +32035,7 @@
   ar = سان مارينو
   az = San Marino
   be = Сан-Марына
+  bn = সান মারিনো
   ca = San Marino
   cs = San Marino
   da = San Marino
@@ -31900,6 +32073,7 @@
   ar = ساو تومي وبرينسيبي
   az = San-Tome və Prinsipi
   be = Сан-Тамэ і Прынсіпі
+  bn = সাঁউ তুমি ও প্রিন্সিপি
   ca = Sao Tomé i Príncipe
   cs = Svatý Tomáš a Princův ostrov
   da = São Tomé og Príncipe
@@ -31937,6 +32111,7 @@
   ar = السعودية
   az = Səudiyyə Ərəbistanı
   be = Саўдавская Аравія
+  bn = সৌদি আরব
   ca = Aràbia Saudita
   cs = Saúdská Arábie
   da = Saudi-Arabien
@@ -31975,6 +32150,7 @@
   ar = السنغال
   az = Seneqal
   be = Сенегал
+  bn = সেনেগাল
   ca = Senegal
   cs = Senegal
   da = Senegal
@@ -32013,6 +32189,7 @@
   ar = صربيا
   az = Serbiya
   be = Сербія
+  bn = সার্বিয়া
   ca = Sèrbia
   cs = Srbsko
   da = Serbien
@@ -32051,6 +32228,7 @@
   ar = سيشيل
   az = Seyşel adaları
   be = Сейшэльскія Астравы
+  bn = সেশেলস
   ca = Seychelles
   cs = Seychely
   da = Seychellerne
@@ -32089,6 +32267,7 @@
   ar = سيراليون
   az = Sierra Leone
   be = Сьера-Леонэ
+  bn = সিয়েরা লিওন
   ca = Sierra Leone
   cs = Sierra Leone
   da = Sierra Leone
@@ -32127,6 +32306,7 @@
   ar = سنغافورة
   az = Sinqapur
   be = Сінгапур
+  bn = সিঙ্গাপুর
   ca = Singapur
   cs = Singapur
   da = Singapore
@@ -32165,6 +32345,7 @@
   ar = سلوفاكيا
   az = Slovakiya
   be = Славакія
+  bn = স্লোভাকিয়া
   ca = Eslovàquia
   cs = Slovensko
   da = Slovakiet
@@ -32479,6 +32660,7 @@
   ar = سلوفينيا
   az = Sloveniya
   be = Славенія
+  bn = স্লোভেনিয়া
   ca = Eslovènia
   cs = Slovinsko
   da = Slovenien
@@ -32517,6 +32699,7 @@
   ar = جزر سليمان
   az = Solomon adaları
   be = Саламонавы Астравы
+  bn = সলোমন দ্বীপপুঞ্জ
   ca = Illes Salomó
   cs = Šalamounovy ostrovy
   da = Salomonøerne
@@ -32555,6 +32738,7 @@
   ar = الصومال
   az = Somali
   be = Самалі
+  bn = সোমালিয়া
   ca = Somàlia
   cs = Somálsko
   da = Somalia
@@ -32593,6 +32777,7 @@
   ar = جنوب أفريقيا
   az = Cənubi Afrika Respublikası
   be = Паўднёва-Афрыканская Рэспубліка
+  bn = দক্ষিণ আফ্রিকা
   ca = Sud-àfrica
   cs = Jihoafrická republika
   da = Sydafrika
@@ -33017,6 +33202,7 @@
   en = South Korea
   ar = كوريا الجنوبية
   az = Cənubi Koreya
+  bn = দক্ষিণ কোরিয়া
   ca = Corea del Sud
   cs = Jižní Korea
   da = Sydkorea
@@ -33157,6 +33343,7 @@
   en = South Sudan
   ar = جنوب السودان
   az = Cənubi Sudan
+  bn = দক্ষিণ সুদান
   ca = Sudan del Sud
   cs = Jižní Súdán
   da = Sydsudan
@@ -33193,6 +33380,7 @@
   en = Spain
   ar = إسبانيا
   az = İspaniya
+  bn = স্পেন
   ca = Espanya
   cs = Španělsko
   da = Spanien
@@ -34012,6 +34200,7 @@
   en = Sri Lanka
   ar = سريلانكا
   az = Şri Lanka
+  bn = শ্রীলঙ্কা
   ca = Sri Lanka
   cs = Srí Lanka
   da = Sri Lanka
@@ -34049,6 +34238,7 @@
   en = Sudan
   ar = السودان
   az = Sudan
+  bn = সুদান
   ca = Sudan
   cs = Súdán
   da = Sudan
@@ -34086,6 +34276,7 @@
   en = Suriname
   ar = سورينام
   az = Surinam
+  bn = সুরিনাম
   ca = Surinari
   cs = Surinam
   da = Surinam
@@ -34122,6 +34313,7 @@
   en = Eswatini
   ar = إسواتيني
   az = Esvatini
+  bn = ইসোয়াতিনি
   ca = Eswatini
   cs = Eswatini
   da = Eswatini
@@ -34160,6 +34352,7 @@
   en = Sweden
   ar = السويد
   az = İsveç
+  bn = সুইডেন
   ca = Suècia
   cs = Švédsko
   da = Sverige
@@ -34428,6 +34621,7 @@
   en = Switzerland
   ar = سويسرا
   az = İsveçrə
+  bn = সুইজারল্যান্ড
   ca = Suïssa
   cs = Švýcarsko
   da = Schweiz
@@ -34700,6 +34894,7 @@
   en = Syria
   ar = سوريا
   az = Suriya
+  bn = সিরিয়া
   ca = Síria
   cs = Sýrie
   da = Syrien
@@ -34737,6 +34932,7 @@
   en = Taiwan
   ar = تايوان
   az = Tayvan
+  bn = তাইওয়ান
   ca = Taiwan
   cs = Čínská republika
   da = Republikken Kina
@@ -34774,6 +34970,7 @@
   en = Tajikistan
   ar = طاجيكستان
   az = Tacikistan
+  bn = তাজিকিস্তান
   ca = Tadjikistan
   cs = Tádžikistán
   da = Tadsjikistan
@@ -34811,6 +35008,7 @@
   en = Tanzania
   ar = تنزانيا
   az = Tanzaniya
+  bn = তানজানিয়া
   ca = Tanzània
   cs = Tanzanie
   da = Tanzania
@@ -34920,6 +35118,7 @@
   en = Thailand
   ar = تايلاند
   az = Tayland
+  bn = থাইল্যান্ড
   ca = Tailàndia
   cs = Thajsko
   da = Thailand
@@ -35025,6 +35224,7 @@
   en = The Bahamas
   ar = البهاما
   az = Baham adaları
+  bn = বাহামা দ্বীপপুঞ্জ
   ca = Bahames
   cs = Bahamy
   da = Bahamas
@@ -35061,6 +35261,7 @@
   en = Gambia
   ar = غامبيا
   az = Qambiya
+  bn = গাম্বিয়া
   ca = Gàmbia
   cs = Gambie
   da = Gambia
@@ -35097,6 +35298,7 @@
   en = Togo
   ar = توغو
   az = Getmək
+  bn = টোগো
   ca = Togo
   cs = Togo
   da = Togo
@@ -35168,6 +35370,7 @@
   en = Tonga
   ar = تونجا
   az = Tonqa
+  bn = টোঙ্গা
   ca = Tonga
   cs = Tonga
   da = Tonga
@@ -35204,6 +35407,7 @@
   en = Trinidad and Tobago
   ar = ترينيداد وتوباغو
   az = Trinidad və Tobaqo
+  bn = ত্রিনিদাদ ও টোবাগো
   ca = Trinitat i Tobago
   cs = Trinidad a Tobago
   da = Trinidad og Tobago
@@ -35241,6 +35445,7 @@
   en = Tunisia
   ar = تونس
   az = Tunis
+  bn = তিউনিসিয়া
   ca = Tunísia
   cs = Tunisko
   da = Tunesien
@@ -35518,6 +35723,7 @@
   en = Turkmenistan
   ar = تركمانستان
   az = Türkmənistan
+  bn = তুর্কমেনিস্তান
   ca = Turkmenistan
   cs = Turkmenistán
   da = Turkmenistan
@@ -35590,6 +35796,7 @@
   en = Tuvalu
   ar = توفالو
   az = Tuvalu
+  bn = টুভালু
   ca = Tuvalu
   cs = Tuvalu
   da = Tuvalu
@@ -40641,6 +40848,7 @@
   en = Uganda
   ar = أوغندا
   az = Uqanda
+  bn = উগান্ডা
   ca = Uganda
   cs = Uganda
   da = Uganda
@@ -40678,6 +40886,7 @@
   en = Ukraine
   ar = أوكرانيا
   az = Ukrayna
+  bn = ইউক্রেন
   ca = Ucraïna
   cs = Ukrajina
   da = Ukraine
@@ -41531,6 +41740,7 @@
   en = United Arab Emirates
   ar = الإمارات العربية المتحدة
   az = Birləşmiş Ərəb Əmirlikləri
+  bn = সংযুক্ত আরব আমিরাত
   ca = Emirats Àrabs Units
   cs = Spojené arabské emiráty
   da = Forenede Arabiske Emirater
@@ -41568,6 +41778,7 @@
   en = United Kingdom
   ar = المملكة المتحدة
   az = Birləşmiş Krallıq
+  bn = যুক্তরাজ্য
   ca = Regne Unit
   cs = Spojené království
   da = Storbritannien
@@ -41640,6 +41851,7 @@
   en = United States of America
   ar = الولايات المتحدة الأمريكية
   az = Amerika Birləşmiş Ştatları
+  bn = মার্কিন যুক্তরাষ্ট্র
   ca = Estats Units d'Amèrica
   cs = Spojené státy americké
   da = USA
@@ -41677,6 +41889,7 @@
   en = Uruguay
   ar = أوروغواي
   az = Uruqvay
+  bn = উরুগুয়ে
   ca = Uruguai
   cs = Uruguay
   da = Uruguay
@@ -41714,6 +41927,7 @@
   en = Uzbekistan
   ar = أوزبكستان
   az = Özbəkistan
+  bn = উজবেকিস্তান
   ca = Uzbekistan
   cs = Uzbekistán
   da = Usbekistan
@@ -41751,6 +41965,7 @@
   en = Vanuatu
   ar = فانواتو
   az = Vanuatu
+  bn = ভানুয়াতু
   ca = Vanuatu
   cs = Vanuatu
   da = Vanuatu
@@ -41787,6 +42002,7 @@
   en = Venezuela
   ar = فنزويلا
   az = Venesuelalı
+  bn = ভেনেজুয়েলা
   ca = Veneçuela
   cs = Venezuela
   da = Venezuela
@@ -41824,6 +42040,7 @@
   en = Vietnam
   ar = فيتنام
   az = Vyetnamlı
+  bn = ভিয়েতনাম
   ca = Vietnam
   cs = Vietnam
   da = Vietnam
@@ -42038,6 +42255,7 @@
   en = Yemen
   ar = اليمن
   az = Yəmən
+  bn = ইয়েমেন
   ca = Iemen
   cs = Jemen
   da = Yemen
@@ -42075,6 +42293,7 @@
   en = Zambia
   ar = زامبيا
   az = Zambiya
+  bn = জাম্বিয়া
   ca = Zàmbia
   cs = Zambie
   da = Zambia
@@ -42112,6 +42331,7 @@
   en = Zimbabwe
   ar = زيمبابوي
   az = Zimbabve
+  bn = জিম্বাবুয়ে
   ca = Zimbàbue
   cs = Zimbabwe
   da = Zimbabwe
@@ -57417,6 +57637,7 @@
 [Saint Kitts and Nevis Description]
   en = Basseterre, Charlestown, Newcastle
   ar = باستير
+  bn = সেন্ট কিট্স ও নেভিস
   el = Μπαστέρ, Τσάρλεστον, Νιούκαστλ
   fr = Basseterre
   he = באסטר
