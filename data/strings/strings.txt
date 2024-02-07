@@ -2097,6 +2097,7 @@
     ar = أماكني
     az = Yerlərim
     be = Мае месцы
+    bn = আমার স্থানগুলি
     bg = Мои места
     ca = Els meus llocs
     cs = Moje místa
@@ -2280,6 +2281,7 @@
     az = Parametrlər
     be = Налады
     bg = Настройки
+    bn = সেটিংস
     ca = Configuració
     cs = Nastavení
     da = Indstillinger
@@ -4569,6 +4571,7 @@
     az = Paylaşın
     be = Абагуліць
     bg = Споделяне
+    bn = শেয়ার করুন
     ca = Comparteix
     cs = Sdílet
     da = Del
@@ -6653,6 +6656,7 @@
     az = Rəy
     be = Водгук
     bg = Обратна връзка
+    bn = মতামত
     ca = Comentaris
     cs = Zpětná vazba
     da = Feedback
@@ -11175,6 +11179,7 @@
     az = Axtarış tarixçəsi
     be = Гісторыя пошуку
     bg = История на търсенията
+    bn = সন্ধান ইতিহাস
     ca = Historial de cerca
     cs = Prohledat historii
     da = Søgehistorik
@@ -12249,6 +12254,7 @@
     az = Məkan
     be = Месцазнаходжанне
     bg = Местоположение
+    bn = অবস্থান
     ca = Ubicació
     cs = Umístění
     da = Sted
@@ -22320,6 +22326,7 @@
     az = Məxfilik
     be = Прыватнасць
     bg = Поверителност
+    bn =
     ca = Privadesa
     cs = Soukromí
     da = Privatliv
@@ -23900,6 +23907,7 @@
     az = Rüsumlardan çəkinin
     be = Пазбягаць платныя дарогі
     bg = Избягвайте платените пътища
+    bn = টোল এড়িয়ে চলুন
     ca = Evita peatges
     cs = Vyhněte se zpoplatněným silnicím
     da = Undgå betalingsveje
@@ -23991,6 +23999,7 @@
     az = Bərə keçidlərindən çəkinin
     be = Пазбягаць паромы
     bg = Избягване на преходи с ферибот
+    bn = ফেরি এড়িয়ে চলুন
     ca = Evita ferris
     cs = Vyhnout se přejezdům trajektů
     da = Undgå færgeoverfarter
@@ -24036,6 +24045,7 @@
     az = Magistral yoldan çəkinin
     be = Пазбягаць аўтамагістралі
     bg = Избягвайте магистралата
+    bn = মহাসড়ক এড়িয়ে চলুন
     ca = Evita autopistes
     cs = Vyhněte se dálnici
     da = Undgå motorvejen
